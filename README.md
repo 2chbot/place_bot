@@ -16,7 +16,7 @@
 **2)** Установить расширение для браузера ([*AdBlock*](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=ru) для **Chrome, Yandex, Opera**) или ([*AdBlock*](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox) для **Mozilla Firefox**)
 <br />
 <br />
-**4)** Установить [*скрипт*]()
+**4)** Установить [*скрипт*](https://github.com/2chbot/place_bot/raw/main/Pixelbattle%20Placer.dist.user.js)
 <br />
 <br />
 **5)** Нажать на **адблок**
@@ -57,7 +57,7 @@ https://www.redditstatic.com/mona-lisa/en-US/*
 **2)** Установить расширение для браузера [*TamperMonkey*](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 <br />
 <br />
-**3)** Установить этот [*скрипт*]()
+**3)** Установить этот [*скрипт*](https://github.com/2chbot/place_bot/raw/main/Pixelbattle%20Placer.dist.user.js)
 <br />
 <br />
 **4)** Установить [*AdBlock*](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=ru)
