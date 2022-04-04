@@ -37,7 +37,7 @@
 ![set](https://i.imgur.com/1SwVX64.jpg)
 <br />
 <br />
-**9)** Вставить туда фильтра
+**9)** Вставить туда фильтр
 <br />
 
 https://www.redditstatic.com/mona-lisa/en-US/*
@@ -48,7 +48,10 @@ https://www.redditstatic.com/mona-lisa/en-US/*
 **11)** Открыть [*place*](https://www.reddit.com/r/place) (или перезагрузить открытую вкладку с ним)
 <br />
 <br />
-**12)** Отдыхать
+**12)** Вынести вкладку в отдельное окно
+<br />
+<br />
+**13)** Отдыхать
 
 ## Установка Android
 **1)** Скачать браузер [*Kiwi*](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=ru)
